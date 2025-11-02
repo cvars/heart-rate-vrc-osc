@@ -21,6 +21,7 @@ In this case we're connecting to a Heart rate sensor, that'll display real-time 
 
 ## Supported Devices 
 - CooSpo H808S
+- Coospo HW706
 
 ## To-do
 - Clean up code
